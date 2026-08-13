@@ -55,7 +55,3 @@ See `figures/` for the comparison plots:
 - Responses after transfer learning on changed structural parameters
 
 The car–wall FEM explicit runs took ~**25 hours**; the trained PINN returns kinematics in near real time for screening.
-
-## Citation
-
-Bulusu Sri Datta Sudheer. *Transfer Learning Techniques to Solve Transient Non-Linear Partial Differential Equations*. B.Tech thesis, School of Mechanical Sciences, IIT Bhubaneswar, May 2022. See `docs/18ME01017_BTP_thesis.pdf`.
